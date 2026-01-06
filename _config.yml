@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://murmuriq.github.io/murmur'
+url: https://murmuriq.github.io
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -71,7 +71,7 @@ toc: true
 paginate: 10
 
 # The base URL of your site
-baseurl: "murmuriq.github.io/murmur"
+baseurl: /murmur
 
 # ------------ The following options are not recommended to be modified ------------------
 
